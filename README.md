@@ -11,11 +11,7 @@
 ---
 
 ### 🚀 Currently Exploring
-
-- Deeper React fundamentals
-- Redux Toolkit
-- Firebase basics
-- React Query for data fetching
+<div align="center"> <table> <tr> <td align="center" width="130"> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux Toolkit"/><br/> <sub><b>Redux Toolkit</b></sub> </td> <td align="center" width="130"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase"/><br/> <sub><b>Firebase</b></sub> </td> <td align="center" width="130"> <img src="https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge" alt="React Query"/><br/> <sub><b>React Query</b></sub> </td> </tr> </table> </div>
 
 ---
 
