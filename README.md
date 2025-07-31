@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Happy+to+collaborate+on+Frontend+projects;Open+to+learning+new+technologies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=1024&lines=Happy+to+collaborate+on+Frontend+projects;Open+to+learning+new+technologies!" alt="Typing SVG" />
 </p>
