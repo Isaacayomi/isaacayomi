@@ -28,25 +28,21 @@
 
 ### 🚀 Currently Exploring
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" alt="Supabase"/><br/>
-        <sub><b>Supabase</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge" alt="React Query"/><br/>
-        <sub><b>React Query</b></sub>
-      </td>
-      
-      <td align="center" width="140">
-        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux Toolkit"/><br/>
-        <sub><b>Redux Toolkit</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" alt="Supabase"/><br/>
+  <sub><b>Supabase</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge" alt="React Query"/><br/>
+  <sub><b>React Query</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux Toolkit"/><br/>
+  <sub><b>Redux Toolkit</b></sub>
+</p>
+
 
 <br/>
 
