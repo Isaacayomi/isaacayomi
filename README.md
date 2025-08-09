@@ -39,10 +39,7 @@
         <img src="https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge" alt="React Query"/><br/>
         <sub><b>React Query</b></sub>
       </td>
-      <td align="center" width="140">
-        <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white&style=for-the-badge" alt="GSAP"/><br/>
-        <sub><b>GSAP Animations</b></sub>
-      </td>
+      
       <td align="center" width="140">
         <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux Toolkit"/><br/>
         <sub><b>Redux Toolkit</b></sub>
