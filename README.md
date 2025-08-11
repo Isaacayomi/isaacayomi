@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white&style=for-the-badge" alt="Redux"/>
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux Toolkit"/>
   <img src="https://img.shields.io/badge/Styled--Components-db7092?logo=styled-components&logoColor=white&style=for-the-badge" alt="Styled Components"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS"/>
