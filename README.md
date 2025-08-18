@@ -27,21 +27,24 @@
 
 ### 🚀 Currently Exploring
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" alt="Supabase"/><br/>
-  <sub><b>Supabase</b></sub>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge" alt="React Query"/><br/>
-  <sub><b>React Query</b></sub>
-</p>
+  <div style="display:inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" alt="Supabase"/><br/>
+    <sub>Supabase</sub>
+  </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux Toolkit"/><br/>
-  <sub><b>Redux Toolkit</b></sub>
-</p>
+  <div style="display:inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge" alt="React Query"/><br/>
+    <sub>React Query</sub>
+  </div>
 
+  <div style="display:inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js"/><br/>
+    <sub>Next.js</sub>
+  </div>
+
+</div>
 
 <br/>
 
