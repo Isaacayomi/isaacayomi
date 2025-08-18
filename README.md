@@ -3,8 +3,6 @@
 <p>
 I'm a frontend developer passionate about crafting delightful, responsive user interfaces. I specialize in turning ideas into interactive and visually appealing web applications.</p>
 
-<br/>
-
 ---
 
 ### 🛠️ Tools & Technologies I Use
@@ -32,15 +30,6 @@ I'm a frontend developer passionate about crafting delightful, responsive user i
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" alt="Supabase"/> 
   <img src="https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge" alt="React Query"/> 
 </p>
-
----
-
-### 📊 GitHub Stats  
-
-<div >  
-  <img src="https://github-readme-stats.vercel.app/api?username=Isaacayomi&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Isaacayomi&layout=compact&theme=dracula" height="150" alt="languages graph" />  
-</div>  
 
 ---
 
