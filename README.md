@@ -35,30 +35,6 @@ I'm a frontend developer passionate about crafting delightful, responsive user i
 
 ---
 
-### 💡 GitHub Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PRs%20Merged-120%2B-success?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Issues%20Opened-60%2B-blue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Repositories-30%2B-orange?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Commits-1000%2B-brightgreen?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Code%20Reviews-Active-blueviolet?style=for-the-badge&logo=github"/>
-</p>
-
----
-
-### 📊 GitHub Stats & Ratings
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isaacayomi&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Isaacayomi&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isaacayomi&theme=radical" />
-</p>
-
----
-
 ### 📫 Let’s Connect
 
 <p >
