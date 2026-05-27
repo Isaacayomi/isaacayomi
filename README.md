@@ -1,9 +1,7 @@
 <h1>Hi there, I'm Isaac Ayomide 👋</h1>
 
 <p>
-I’m a Frontend Engineer focused on building scalable, high-performance, and visually engaging web applications. 
-I specialize in translating complex ideas into intuitive user interfaces using modern JavaScript frameworks and best practices. 
-I’m passionate about writing clean, maintainable code and continuously improving user experience through thoughtful design and performance optimization.
+I'm a Software Engineer who builds full-stack products from the ground up, pixel-perfect UIs to backend APIs. I specialize in Next.js, TypeScript, React and React Native (Expo), and I ship fast across SaaS, fintech, and AI-powered tools.
 </p>
 
 ---
@@ -24,6 +22,7 @@ I’m passionate about writing clean, maintainable code and continuously improvi
 <p>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
 </p>
 
 ---
@@ -50,6 +49,7 @@ I’m passionate about writing clean, maintainable code and continuously improvi
 ### 🗄️ Backend & Database
 
 <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
@@ -76,15 +76,6 @@ I’m passionate about writing clean, maintainable code and continuously improvi
 
 ---
 
-### 🚀 Currently Exploring
-
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-</p>
-
----
-
 ### 📫 Let’s Connect
 
 <p>
@@ -105,5 +96,5 @@ I’m passionate about writing clean, maintainable code and continuously improvi
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=1024&lines=Building+scalable+frontend+experiences;Passionate+about+clean+UI+and+UX;Always+learning+and+improving!" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=1024&lines=Building+full-stack+products+from+the+ground+up;Next.js+|+TypeScript+|+React+|+React+Native;Shipping+fast+across+SaaS,+fintech+%26+AI+tools" />
 </p>
