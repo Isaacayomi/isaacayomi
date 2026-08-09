@@ -76,10 +76,6 @@ I'm a Software Engineer who builds full-stack products from the ground up, pixel
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Isaacayomi&theme=dark)](https://git.io/streak-stats)
-
 ### 📫 Let’s Connect
 
 <p>
