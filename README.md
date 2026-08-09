@@ -4,6 +4,12 @@
 I'm a Software Engineer who builds full-stack products from the ground up, pixel-perfect UIs to backend APIs. I specialize in Next.js, TypeScript, React and React Native (Expo), and I ship fast across SaaS, fintech, and AI-powered tools.
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Isaacayomi&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
 ---
 
 ### 💻 Core Languages
