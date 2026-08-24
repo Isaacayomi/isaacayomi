@@ -74,15 +74,6 @@ I'm a Software Engineer who builds full-stack products from the ground up, pixel
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </p>
 
-
----
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Isaacayomi&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
 ---
 
 ### 📫 Let’s Connect
